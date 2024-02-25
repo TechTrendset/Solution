@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "65c8d9ee10fe5c3be3371bd4"
+  },
+  "name": "Naik Parveen",
+  "password": "kiahogayayaar"
+},
+{
+  "_id": {
+    "$oid": "65d34b16826559099f89929b"
+  },
+  "name": "huriara",
+  "password": "this is problem",
+  "createdAt": {
+    "$date": "2024-02-19T12:35:34.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T12:35:34.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d34cf9e6443a34d1e1a118"
+  },
+  "name": "alif",
+  "password": "powerpuff",
+  "createdAt": {
+    "$date": "2024-02-19T12:43:37.877Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T12:43:37.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d34d36e6443a34d1e1a11d"
+  },
+  "name": "alif kamran",
+  "password": "hjkdhf",
+  "createdAt": {
+    "$date": "2024-02-19T12:44:38.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T12:44:38.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d34f02e6443a34d1e1a121"
+  },
+  "name": "kalam",
+  "password": "power",
+  "createdAt": {
+    "$date": "2024-02-19T12:52:18.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T12:52:18.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d34fe9e6443a34d1e1a123"
+  },
+  "name": "lalit",
+  "password": "kumar",
+  "createdAt": {
+    "$date": "2024-02-19T12:56:09.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T12:56:09.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4ef5655a035142b362db3"
+  },
+  "name": "Sana Javed",
+  "password": "123456789",
+  "createdAt": {
+    "$date": "2024-02-20T18:28:38.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T18:28:38.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4f5a655a035142b362de7"
+  },
+  "name": "jabbar",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-02-20T18:55:34.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T18:55:34.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d63de155a035142b362e47"
+  },
+  "name": "alif2",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-02-21T18:16:01.909Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T18:16:01.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6406055a035142b362e73"
+  },
+  "name": "agentCarter",
+  "password": "123",
+  "createdAt": {
+    "$date": "2024-02-21T18:26:40.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T18:26:40.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db3b3a243593427b071155"
+  },
+  "name": "majestic",
+  "password": "123456789",
+  "createdAt": {
+    "$date": "2024-02-25T13:06:02.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-25T13:06:02.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db3c95243593427b071163"
+  },
+  "name": "InNeed",
+  "password": "123456789",
+  "createdAt": {
+    "$date": "2024-02-25T13:11:49.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-25T13:11:49.280Z"
+  },
+  "__v": 0
+}]

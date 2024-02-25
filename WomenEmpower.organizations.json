@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65c898c30b1a8c541f2959ae"
+  },
+  "name": "Aurat Foundation",
+  "email": "aurat@gmail.com",
+  "password": "thisisme",
+  "description": "this is my aurat foundation",
+  "status": "UNACTIVE",
+  "logo": "https://www.af.org.pk/images/logo.jpg"
+},
+{
+  "_id": {
+    "$oid": "65d3638b8acb8c8546b2d7c1"
+  },
+  "name": "Aisi Foundation",
+  "email": "aisi@gmail.com",
+  "password": "thisisme",
+  "description": "this is my aurat foundation",
+  "status": "UNACTIVE"
+}]
